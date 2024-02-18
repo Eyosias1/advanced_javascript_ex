@@ -23,3 +23,4 @@ const pow100 = (x) => x**100;
 // Research for yourself why you get this result
 
 pow100(1000);
+
